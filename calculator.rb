@@ -1,18 +1,6 @@
 # Add your variables here
-def first_number = 5
-end
+first_number = 5
 
-def second_number = 2
-end
+second_number = 2
 
-def sum = first_number + second_number
-end
-
-def difference = first_number - second_number
-end
-
-def product = first_number * second_number
-end
-
-def quotient = first_number / second_number
-end
+sum = first_number + second_number
